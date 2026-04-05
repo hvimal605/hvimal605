@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://harsh-kuih.netlify.app/](https://harshkumarvimal-portfolio.netlify.app/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
